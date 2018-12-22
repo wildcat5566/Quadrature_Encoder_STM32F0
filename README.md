@@ -1,4 +1,7 @@
 # STM32F0 Quadrature Encoder
+## STM32F1 version with I2C Arduino communication
+Please refer to this repository: </br >
+https://github.com/wildcat5566/STM32F1_I2C_MotorModule </br >
 
 ## Rotary encoders
 ![alt text](./src/rotary.jpg)  </br >
