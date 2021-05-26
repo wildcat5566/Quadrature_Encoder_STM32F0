@@ -1,5 +1,5 @@
 # STM32F0 Quadrature Encoder
-## STM32F1 version with I2C Arduino communication
+## STM32F1 version with I2C Arduino communication (C++ Library)
 Please refer to this repository: </br >
 https://github.com/wildcat5566/STM32F1_I2C_MotorModule </br >
 
